@@ -1,4 +1,4 @@
-# What inside? <br/> <sub> https://28-jotion-clone.vercel.app/ </sub>
+# What inside? <br/> <sub> https://notion-final-year-project-five.vercel.app</sub>
 
 ![work in progress](https://i.imgur.com/cW9GVNg.png)
 
@@ -14,9 +14,6 @@
 
 ## or Step 1.1 - clone repository (variant 2)
 
-```
-git clone https://github.com/nicitaacom/28_notion-clone
-```
 
 ## Step 1.2 - install deps
 
@@ -40,11 +37,4 @@ pnpx convex dev
 <br/>
 <br/>
 
-## Step 2 - setup .env
-
-### 2.1 - convex - https://youtu.be/0OaDyjB9Ib8?t=4679
-
-### 2.2 - clerk - https://youtu.be/0OaDyjB9Ib8?t=4916
-
-### 2.3 - edge store - https://youtu.be/0OaDyjB9Ib8?t=22786
-
+#
