@@ -2,7 +2,7 @@
 
 ![work in progress](https://i.imgur.com/cW9GVNg.png)
 
-![showcase](https://imgur.com/a/nsdU6gl)
+![Showcase](https://i.imgur.com/znIybIV.png)
 <br/>
 <br/>
 <br/>
